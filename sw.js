@@ -1,7 +1,7 @@
 // EC225 Single-Engine Hover Performance OGE (CT) - Service Worker
 // Caches the app for full offline use after first load
 
-const CACHE_NAME = 'ec225-se-ct-v3';
+const CACHE_NAME = 'ec225-se-ct-v4';
 const FILES_TO_CACHE = [
   './',
   './index.html'
